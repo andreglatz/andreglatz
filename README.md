@@ -2,8 +2,8 @@
 
 ### Hi there! Wellcome to my profile! 👋
 
-- 🔭 I’m currently working with Delphi
-- 🌱 I’m currently learning Java, Node.js, TypeScript, TDD, SQL and NoSQL.
+- 🔭 I’m currently working with Node.js and Flutter
+- 🌱 I’m currently learning Flutter, Node.js, TypeScript, TDD, SQL and NoSQL.
 - 💬 Ask me about anything
 - 📫 How to reach me:
 
