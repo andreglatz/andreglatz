@@ -2,7 +2,7 @@
 
 ### Hi there! Wellcome to my profile! 👋
 
-- 🔭 I’m currently working with Node.js
+- 🔭 I’m currently working with Node.js and Go
 - 🌱 I’m currently learning Software Engineer, Software Architecture, Go Lang and more.
 - 💬 Ask me about anything, if i don't know, i'll try find
 - 📫 How to reach me:
