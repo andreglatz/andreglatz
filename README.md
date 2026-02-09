@@ -1,6 +1,6 @@
 # André Glatz
 
-Software Engineer @ Mercado Libre
+Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreglatz/)](https://www.linkedin.com/in/andreglatz/)
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:andreglatz@outlook.com)
